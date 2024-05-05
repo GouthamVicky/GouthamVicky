@@ -12,7 +12,7 @@
 
 - 🔭 🚀 As an astrophile and space enthusiast, I'm constantly inspired by the mysteries of the cosmos!
 
-- ⚡ 🎮 Fun fact: I love playing video games—it sparked my passion for tech and computers!
+- ⚡ 🎮 Fun fact: I love playing video games—it sparked my passion  for tech and computers!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
