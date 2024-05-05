@@ -4,9 +4,9 @@
 
 - 🖥️ Currently working as an Artificial Intelligence Engineer
 
-- 🌱 Learning about **Quantum Computing and Blockchain**
+- 🌱 📕 Learning about **Quantum Computing and Blockchain**
 
-- 💬 Let's collaborate on **Innovative ideas and projects** 
+- 💭 💡 Let's collaborate on **Innovative ideas and projects** 
 
 - 📫 Reach me at **gouthamvigneshs@gmail.com**
 
