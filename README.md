@@ -2,15 +2,17 @@
 <h3 align="center">A Data Scientist who is all about Data.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on **LLM Content Creator** & [Blog](https://researchpaper101.notion.site/Research-Papers-101-b02fa4f8fed94e23b41850140c3a8b71)
+- 🖥️ Currently working as an Artificial Intelligence Engineer
 
-- 🌱 I’m currently learning **Quantum Machine Learning and Blockchain**
+- 🌱 Learning **Quantum Machine Learning and Blockchain**
 
-- 💬 Ask me about **AI/LLM Projects**
+- 💬 Let's collaborate on **Innovative ideas and projects** 
 
-- 📫 How to reach me **gouthamvigneshs@gmail.com**
+- 📫 Reach me at **gouthamvigneshs@gmail.com**
 
-- ⚡ Fun fact **about to fill it up.**
+- 🔭 🚀 As an astrophile and space enthusiast, I'm constantly inspired by the mysteries of the cosmos!
+
+- ⚡ 🎮 Fun fact: I love playing video games—it sparked my passion for tech and computers!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
