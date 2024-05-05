@@ -2,7 +2,7 @@
 <h3 align="center">The human brain is the universe's most intricate enigma, unlocking wonders with every thought.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🖥️ Currently working as an Artificial Intelligence Engineer
+- 🖥️ 🧠 Currently working as an Artificial Intelligence Engineer
 
 - 🌱 📕 Learning about **Quantum Computing and Blockchain**
 
