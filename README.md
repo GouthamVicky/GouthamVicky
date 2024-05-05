@@ -31,7 +31,7 @@
 <code><img height="30" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png"></code>
 <code><img height="30" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg"></code>
 <code><img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
+<code><img height="30" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png"></code>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GouthamVicky&show_icons=true&locale=en&layout=compact" alt="GouthamVicky" /></p>
