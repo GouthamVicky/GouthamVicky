@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goutham Vignesh</h1>
-<h3 align="center">A Data Scientist who is all about Data.</h3>
+<h3 align="center">The human brain is the universe's most intricate enigma, unlocking wonders with every thought.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🖥️ Currently working as an Artificial Intelligence Engineer
@@ -30,6 +30,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GouthamVicky&show_icons=true&locale=en&layout=compact" alt="GouthamVicky" /></p>
