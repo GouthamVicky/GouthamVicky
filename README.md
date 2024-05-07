@@ -68,5 +68,8 @@
 
 ---
 
+### Top Usage Languages:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GouthamVicky&show_icons=true&locale=en&layout=compact" alt="GouthamVicky" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamVicky&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
