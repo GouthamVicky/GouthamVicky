@@ -11,8 +11,6 @@
 
 - 🖥️ 🧠 Currently working as an Artificial Intelligence Engineer
 
-- 🌱 📕 Learning about **Quantum Computing and Blockchain**
-
 - 💭 💡 Let's collaborate on **Innovative ideas and projects** 
 
 - 📫 Reach me at **gouthamvigneshs@gmail.com**
@@ -20,6 +18,8 @@
 - 🔭 🚀 As an astrophile and space enthusiast, I'm constantly inspired by the mysteries of the cosmos!
 
 - ⚡ 🎮 Fun fact: I love playing video games—it sparked my passion  for tech and computers!
+
+- 🌱 📕 Learning **Quantum Computing and Blockchain** 
 
 ---
 
