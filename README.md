@@ -67,16 +67,6 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
----
-
-### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamVicky&theme=algolia" alt="said7388" />
-</p>
-
----
-
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamVicky&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
