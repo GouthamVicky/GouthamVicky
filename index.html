@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goutham Vignesh - ML Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Background Animation -->
+    <div class="bg-animation">
+        <div class="grid-overlay"></div>
+        <canvas id="matrix-canvas"></canvas>
+    </div>
+
+    <!-- Scanner Effect -->
+    <div class="scanner"></div>
+
+    <!-- Header/Navigation -->
+    <header class="header">
+        <div class="container">
+            <div class="nav-content">
+                <div class="logo">
+                    <span class="terminal-prompt">$</span>
+                    <span class="logo-text">GOUTHAM_VIGNESH</span>
+                </div>
+                <nav class="nav-menu">
+                    <a href="#about" class="nav-link">about</a>
+                    <a href="#experience" class="nav-link">experience</a>
+                    <a href="#skills" class="nav-link">skills</a>
+                    <a href="#projects" class="nav-link">projects</a>
+                    <a href="#contact" class="nav-link">contact</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="status-badge">
+                    <span class="status-dot"></span>
+                    <span>STATUS: AVAILABLE</span>
+                </div>
+                <div class="hero-text">
+                    <div class="identity-label">Identity: Goutham Vignesh</div>
+                    <h1 class="hero-title">
+                        <span class="gradient-text">Machine Learning</span>
+                        <span class="gradient-text">Engineer</span>
+                    </h1>
+                    <div class="hero-description">
+                        <div class="terminal-line">
+                            <span class="terminal-prompt">&gt;&gt;</span>
+                            <span>6+ years building intelligent systems that scale.</span>
+                        </div>
+                        <div class="terminal-line">
+                            <span class="terminal-prompt">&gt;&gt;</span>
+                            <span>Deep expertise in ML/AI, NLP, and Computer Vision.</span>
+                        </div>
+                    </div>
+                    <div class="location">
+                        <span class="location-icon">📍</span>
+                        <span>Bengaluru, Karnataka, India</span>
+                    </div>
+                </div>
+                <div class="hero-cta">
+                    <a href="#contact" class="btn btn-primary">
+                        <span>Get in Touch</span>
+                        <span class="btn-arrow">→</span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/goutham-vignesh-243988128/" target="_blank" class="btn btn-secondary">
+                        <span>LinkedIn</span>
+                        <span class="btn-icon">↗</span>
+                    </a>
+                    <a href="GouthamVigneshCV.pdf" target="_blank" class="btn btn-secondary">
+                        <span>View Resume</span>
+                        <span class="btn-icon">↗</span>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Stats Cards -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value">6+</div>
+                    <div class="stat-label">Years Experience</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">ML/AI</div>
+                    <div class="stat-label">Core Expertise</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">Quantiphi</div>
+                    <div class="stat-label">Current Company</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section" id="about">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-label">
+                    <span class="terminal-prompt">// </span>
+                    <span>WHO AM I</span>
+                </div>
+                <h2 class="section-title">About Me</h2>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>As a passionate Machine Learning Engineer with 6 years of experience, I have gained extensive expertise in building and deploying AI/ML solutions at scale. Currently working at <span class="highlight">Quantiphi</span>, I specialize in developing intelligent systems that solve complex business problems.</p>
+                    <p>My journey in technology began at <span class="highlight">Sri Krishna College of Technology</span> (2016-2020), where I developed a strong foundation in computer science and machine learning. Since then, I've been at the forefront of implementing cutting-edge AI solutions.</p>
+                    <p>I'm certified in Python by HackerRank and continuously expanding my skill set to stay ahead in the rapidly evolving field of artificial intelligence.</p>
+                </div>
+                <div class="terminal-box">
+                    <div class="terminal-header">
+                        <div class="terminal-title">goutham@ml-engineer ~ %</div>
+                        <div class="terminal-dots">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="terminal-body">
+                        <div class="terminal-output">
+                            <span class="text-green">$</span> cat profile.json
+                        </div>
+                        <div class="terminal-output">
+                            <span class="text-cyan">{</span>
+                        </div>
+                        <div class="terminal-output ml-4">
+                            <span class="text-purple">"name"</span>: <span class="text-yellow">"Goutham Vignesh"</span>,
+                        </div>
+                        <div class="terminal-output ml-4">
+                            <span class="text-purple">"role"</span>: <span class="text-yellow">"ML Engineer"</span>,
+                        </div>
+                        <div class="terminal-output ml-4">
+                            <span class="text-purple">"experience"</span>: <span class="text-yellow">"6+ years"</span>,
+                        </div>
+                        <div class="terminal-output ml-4">
+                            <span class="text-purple">"location"</span>: <span class="text-yellow">"Bengaluru, IN"</span>,
+                        </div>
+                        <div class="terminal-output ml-4">
+                            <span class="text-purple">"status"</span>: <span class="text-green">"available"</span>
+                        </div>
+                        <div class="terminal-output">
+                            <span class="text-cyan">}</span>
+                        </div>
+                        <div class="terminal-cursor">█</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section class="section section-dark" id="experience">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-label">
+                    <span class="terminal-prompt">// </span>
+                    <span>CAREER PATH</span>
+                </div>
+                <h2 class="section-title">Experience & Education</h2>
+            </div>
+            <div class="timeline">
+                <!-- Current Experience -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-badge">CURRENT</div>
+                        <h3 class="timeline-title">Machine Learning Engineer</h3>
+                        <div class="timeline-company">Quantiphi</div>
+                        <div class="timeline-date">Present</div>
+                        <p class="timeline-description">Building and deploying scalable ML/AI solutions, working with cutting-edge technologies in machine learning, NLP, and computer vision.</p>
+                        <div class="tech-tags">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">TensorFlow</span>
+                            <span class="tech-tag">PyTorch</span>
+                            <span class="tech-tag">MLOps</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Education -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-badge">EDUCATION</div>
+                        <h3 class="timeline-title">Bachelor of Engineering</h3>
+                        <div class="timeline-company">Sri Krishna College of Technology</div>
+                        <div class="timeline-date">2016 - 2020</div>
+                        <p class="timeline-description">Built a strong foundation in computer science and machine learning, participated in various tech competitions and projects.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Certifications -->
+            <div class="certifications">
+                <h3 class="subsection-title">Certifications</h3>
+                <div class="cert-grid">
+                    <div class="cert-card">
+                        <div class="cert-icon">🏆</div>
+                        <div class="cert-info">
+                            <div class="cert-name">Python Certification</div>
+                            <div class="cert-issuer">HackerRank</div>
+                            <div class="cert-date">Issued Aug 2020</div>
+                        </div>
+                        <a href="https://www.hackerrank.com/certificates/1dff1ba7a342" target="_blank" class="cert-link">View →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="section" id="skills">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-label">
+                    <span class="terminal-prompt">// </span>
+                    <span>TECH STACK</span>
+                </div>
+                <h2 class="section-title">Skills & Technologies</h2>
+            </div>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <div class="skill-category-header">
+                        <span class="skill-icon">🤖</span>
+                        <h3>Machine Learning & AI</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Machine Learning</span>
+                        <span class="skill-tag">Deep Learning</span>
+                        <span class="skill-tag">NLP</span>
+                        <span class="skill-tag">Computer Vision</span>
+                        <span class="skill-tag">Neural Networks</span>
+                        <span class="skill-tag">Model Deployment</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="skill-category-header">
+                        <span class="skill-icon">💻</span>
+                        <h3>Programming Languages</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">SQL</span>
+                        <span class="skill-tag">R</span>
+                        <span class="skill-tag">Java</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="skill-category-header">
+                        <span class="skill-icon">🛠️</span>
+                        <h3>Frameworks & Tools</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">TensorFlow</span>
+                        <span class="skill-tag">PyTorch</span>
+                        <span class="skill-tag">Scikit-learn</span>
+                        <span class="skill-tag">Keras</span>
+                        <span class="skill-tag">Pandas</span>
+                        <span class="skill-tag">NumPy</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <div class="skill-category-header">
+                        <span class="skill-icon">☁️</span>
+                        <h3>Cloud & MLOps</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">AWS</span>
+                        <span class="skill-tag">GCP</span>
+                        <span class="skill-tag">Docker</span>
+                        <span class="skill-tag">Kubernetes</span>
+                        <span class="skill-tag">MLflow</span>
+                        <span class="skill-tag">CI/CD</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section section-dark" id="projects">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-label">
+                    <span class="terminal-prompt">// </span>
+                    <span>PORTFOLIO</span>
+                </div>
+                <h2 class="section-title">Featured Projects</h2>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-header">
+                        <span class="project-badge">ML</span>
+                        <span class="project-status">Production</span>
+                    </div>
+                    <h3 class="project-title">Intelligent Document Processing</h3>
+                    <p class="project-description">Built an end-to-end ML pipeline for automated document classification and information extraction using NLP and Computer Vision techniques.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">TensorFlow</span>
+                        <span class="tech-tag">NLP</span>
+                        <span class="tech-tag">OCR</span>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <span class="project-badge">AI</span>
+                        <span class="project-status">Deployed</span>
+                    </div>
+                    <h3 class="project-title">Predictive Analytics System</h3>
+                    <p class="project-description">Developed a machine learning model for forecasting business metrics with 95%+ accuracy, enabling data-driven decision making.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Scikit-learn</span>
+                        <span class="tech-tag">Time Series</span>
+                        <span class="tech-tag">AWS</span>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <span class="project-badge">CV</span>
+                        <span class="project-status">Research</span>
+                    </div>
+                    <h3 class="project-title">Object Detection Pipeline</h3>
+                    <p class="project-description">Implemented real-time object detection system using state-of-the-art deep learning models for industrial applications.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">PyTorch</span>
+                        <span class="tech-tag">YOLO</span>
+                        <span class="tech-tag">OpenCV</span>
+                        <span class="tech-tag">Docker</span>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <span class="project-badge">NLP</span>
+                        <span class="project-status">Active</span>
+                    </div>
+                    <h3 class="project-title">Conversational AI Assistant</h3>
+                    <p class="project-description">Created an intelligent chatbot using transformer models for customer support automation with natural language understanding.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">BERT</span>
+                        <span class="tech-tag">Transformers</span>
+                        <span class="tech-tag">FastAPI</span>
+                        <span class="tech-tag">Redis</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section" id="contact">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-label">
+                    <span class="terminal-prompt">// </span>
+                    <span>GET IN TOUCH</span>
+                </div>
+                <h2 class="section-title">Let's Connect</h2>
+            </div>
+            <div class="contact-content">
+                <div class="contact-text">
+                    <p>I'm always interested in hearing about new opportunities, collaborations, or just having a chat about machine learning and AI.</p>
+                    <p>Feel free to reach out through any of the channels below:</p>
+                </div>
+                
+                <div class="terminal-box">
+                    <div class="terminal-header">
+                        <div class="terminal-title">contact_goutham.sh</div>
+                        <div class="terminal-dots">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="terminal-body">
+                        <div class="terminal-output">
+                            <span class="text-green">$</span> ./initialize_connection.sh
+                        </div>
+                        <div class="terminal-output">
+                            <span class="text-cyan">&gt;</span> Connection protocol initialized...
+                        </div>
+                        <div class="terminal-output">
+                            <span class="text-cyan">&gt;</span> Ready to establish link.
+                        </div>
+                        <div class="terminal-output">
+                            <span class="text-cyan">&gt;</span> Select communication channel:
+                        </div>
+                        <div class="terminal-cursor">█</div>
+                    </div>
+                </div>
+
+                <div class="contact-links">
+                    <a href="https://www.linkedin.com/in/goutham-vignesh-243988128/" target="_blank" class="contact-link">
+                        <span class="contact-icon">💼</span>
+                        <div class="contact-info">
+                            <div class="contact-label">LinkedIn</div>
+                            <div class="contact-value">goutham-vignesh</div>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                    
+                    <a href="mailto:gouthamvigneshs@gmail.com" class="contact-link">
+                        <span class="contact-icon">📧</span>
+                        <div class="contact-info">
+                            <div class="contact-label">Email</div>
+                            <div class="contact-value">gouthamvigneshs@gmail.com</div>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                    
+                    <a href="https://github.com/GouthamVicky" target="_blank" class="contact-link">
+                        <span class="contact-icon">💻</span>
+                        <div class="contact-info">
+                            <div class="contact-label">GitHub</div>
+                            <div class="contact-value">View repositories</div>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <div class="footer-logo">
+                        <span class="terminal-prompt">$</span>
+                        <span>GOUTHAM VIGNESH</span>
+                    </div>
+                    <p>Machine Learning Engineer building intelligent systems that scale.</p>
+                </div>
+                <div class="footer-right">
+                    <div class="footer-status">
+                        <span class="status-dot"></span>
+                        <span>System Ready // All Operations Nominal</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2025 Goutham Vignesh. All systems operational.</p>
+                <p class="footer-credits">_End of transmission</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
