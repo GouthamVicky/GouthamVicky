@@ -612,4 +612,20 @@ if (statusBadge) {
 
 console.log('%c ✨ Enhanced Scroll Animations Loaded! ✨ ', 'background: #a78bfa; color: white; font-size: 14px; font-weight: bold; padding: 8px;');
 
+// Toggle Certifications Expandable Section
+function toggleCertifications() {
+    const content = document.getElementById('cert-content');
+    const icon = document.getElementById('cert-icon');
+    
+    if (content.style.display === 'none' || content.style.display === '') {
+        content.style.display = 'block';
+        icon.textContent = '−';
+        icon.style.transform = 'rotate(0deg)';
+    } else {
+        content.style.display = 'none';
+        icon.textContent = '+';
+        icon.style.transform = 'rotate(0deg)';
+    }
+}
+
 
