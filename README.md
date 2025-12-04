@@ -28,6 +28,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamvigneshs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-vignesh-243988128/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GouthamVignesh1)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7668-8482)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/scientific-contributions/Goutham-Vignesh-2277002652)
 
 ---
@@ -67,13 +68,31 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
-### 📦 My Repositories:
+### 📚 Publications & Research:
 
-<div align="center">
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--7668--8482-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7668-8482)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GouthamVicky&repo=GouthamVicky&theme=algolia&hide_border=true)](https://github.com/GouthamVicky/GouthamVicky)
+#### 📄 2026
+- **DocAnnot - Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation**  
+  *Book Chapter* | [DOI: 10.1007/978-3-032-04624-6_33](https://doi.org/10.1007/978-3-032-04624-6_33)
 
-</div>
+#### 📄 2025
+- **DocGenie: A Framework for High-Fidelity Synthetic Document Generation via Seed-Guided Multimodal LLM and Document-Aware Evaluation**  
+  *CVPR 2025 Workshop - Synthetic Data for Computer Vision* | [OpenReview](https://openreview.net/forum?id=cT5v6GjdsH)
+
+- **IDPFlow: A No-Code Agentic Framework for Multimodal Intelligent Document Processing**  
+  *ACM Multimedia 2025* | [DOI: 10.1145/3746027.3761838](https://doi.org/10.1145/3746027.3761838)
+
+#### 📄 2024
+- **SciSpace Copilot: Empowering Researchers through Intelligent Reading Assistance**  
+  *AAAI Conference on Artificial Intelligence* | [DOI: 10.1609/aaai.v38i21.30578](https://doi.org/10.1609/aaai.v38i21.30578)
+
+- **SciSpace Literature Review: Harnessing AI for Effortless Scientific Discovery**  
+  *Book Chapter* | [DOI: 10.1007/978-3-031-56069-9_28](https://doi.org/10.1007/978-3-031-56069-9_28)
+
+#### 📄 2020
+- **LSTM based approach for Generating Music from MIDI notes**  
+  *Journal Article*
 
 ---
 
