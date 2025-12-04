@@ -540,8 +540,12 @@ body {
 }
 
 .timeline-content:hover {
-    border-color: var(--accent-cyan);
+    border-color: #10b981;
     transform: translateX(10px);
+    box-shadow: 0 8px 30px rgba(16, 185, 129, 0.3), 
+                0 0 0 1px rgba(16, 185, 129, 0.2),
+                inset 0 0 30px rgba(16, 185, 129, 0.05);
+    background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(16, 185, 129, 0.05) 50%, rgba(10, 10, 10, 0.95) 100%);
 }
 
 .timeline-badge {
@@ -628,8 +632,12 @@ body {
 }
 
 .cert-card:hover {
-    border-color: var(--accent-cyan);
+    border-color: #10b981;
     transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(16, 185, 129, 0.3), 
+                0 0 0 1px rgba(16, 185, 129, 0.2),
+                inset 0 0 30px rgba(16, 185, 129, 0.05);
+    background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(16, 185, 129, 0.05) 50%, rgba(10, 10, 10, 0.95) 100%);
 }
 
 .cert-icon {
@@ -756,7 +764,7 @@ body {
     left: 0;
     width: 100%;
     height: 4px;
-    background: var(--gradient-primary);
+    background: linear-gradient(90deg, #10b981, #34d399, #10b981);
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
@@ -766,8 +774,12 @@ body {
 }
 
 .project-card:hover {
-    border-color: var(--accent-cyan);
+    border-color: #10b981;
     transform: translateY(-10px);
+    box-shadow: 0 8px 30px rgba(16, 185, 129, 0.3), 
+                0 0 0 1px rgba(16, 185, 129, 0.2),
+                inset 0 0 30px rgba(16, 185, 129, 0.05);
+    background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(16, 185, 129, 0.05) 50%, rgba(10, 10, 10, 0.95) 100%);
 }
 
 .project-header {
@@ -1021,7 +1033,7 @@ body {
 }
 
 .timeline-content:hover {
-    animation: subtle-glow 2s ease-in-out infinite;
+    animation: green-glow 2s ease-in-out infinite;
 }
 
 /* Enhanced skill category effects */
@@ -1043,8 +1055,8 @@ body {
 
 .project-card:hover {
     transform: translateY(-10px) scale(1.02);
-    box-shadow: 0 25px 50px rgba(56, 189, 248, 0.25), 
-                0 10px 20px rgba(16, 185, 129, 0.15);
+    box-shadow: 0 25px 50px rgba(16, 185, 129, 0.3), 
+                0 10px 20px rgba(16, 185, 129, 0.2);
 }
 
 /* Certification cards enhanced */
@@ -1053,7 +1065,7 @@ body {
 }
 
 .cert-card:hover {
-    animation: subtle-glow 2s ease-in-out infinite;
+    animation: green-glow 2s ease-in-out infinite;
 }
 
 /* About section text reveal */
@@ -1125,6 +1137,20 @@ body {
     }
     50% {
         box-shadow: 0 0 30px rgba(56, 189, 248, 0.4), 0 0 45px rgba(16, 185, 129, 0.3);
+    }
+}
+
+/* Green glow animation for card hover */
+@keyframes green-glow {
+    0%, 100% {
+        box-shadow: 0 8px 30px rgba(16, 185, 129, 0.3), 
+                    0 0 0 1px rgba(16, 185, 129, 0.2),
+                    inset 0 0 30px rgba(16, 185, 129, 0.05);
+    }
+    50% {
+        box-shadow: 0 8px 40px rgba(16, 185, 129, 0.5), 
+                    0 0 0 2px rgba(16, 185, 129, 0.4),
+                    inset 0 0 40px rgba(16, 185, 129, 0.1);
     }
 }
 
