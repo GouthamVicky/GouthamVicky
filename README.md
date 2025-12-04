@@ -72,16 +72,19 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--7668--8482-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7668-8482)
 
-#### 📄 2026
+
+
+#### 📄 2025
+- **IDPFlow: A No-Code Agentic Framework for Multimodal Intelligent Document Processing**  
+  *ACM Multimedia 2025* | [DOI: 10.1145/3746027.3761838](https://doi.org/10.1145/3746027.3761838)
+
 - **DocAnnot - Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation**  
   *Book Chapter* | [DOI: 10.1007/978-3-032-04624-6_33](https://doi.org/10.1007/978-3-032-04624-6_33)
 
-#### 📄 2025
 - **DocGenie: A Framework for High-Fidelity Synthetic Document Generation via Seed-Guided Multimodal LLM and Document-Aware Evaluation**  
   *CVPR 2025 Workshop - Synthetic Data for Computer Vision* | [OpenReview](https://openreview.net/forum?id=cT5v6GjdsH)
 
-- **IDPFlow: A No-Code Agentic Framework for Multimodal Intelligent Document Processing**  
-  *ACM Multimedia 2025* | [DOI: 10.1145/3746027.3761838](https://doi.org/10.1145/3746027.3761838)
+
 
 #### 📄 2024
 - **SciSpace Copilot: Empowering Researchers through Intelligent Reading Assistance**  
@@ -94,13 +97,4 @@
 - **LSTM based approach for Generating Music from MIDI notes**  
   *Journal Article*
 
----
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GouthamVicky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamVicky&theme=algolia&hide_border=true"/>
-</div>
-
----
