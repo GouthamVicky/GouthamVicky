@@ -67,8 +67,21 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 
-### Top Usage Languages:
+### 📦 My Repositories:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamVicky&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GouthamVicky&repo=GouthamVicky&theme=algolia&hide_border=true)](https://github.com/GouthamVicky/GouthamVicky)
+
+</div>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GouthamVicky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamVicky&theme=algolia&hide_border=true"/>
+</div>
 
 ---
