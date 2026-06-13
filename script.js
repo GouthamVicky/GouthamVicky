@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Calm reveal animation for the main content blocks.
     const revealTargets = document.querySelectorAll(
-        '.hero-visual, .hero-proof, .section-header, .about-text, .profile-card, .timeline-item, .cert-card, .skill-category, .project-card, .contact-card, .contact-link'
+        '.hero-visual, .hero-proof, .section-header, .about-text, .profile-card, .timeline-item, .cert-card, .skill-category, .project-card, .contact-panel, .contact-action'
     );
 
     if ('IntersectionObserver' in window) {
@@ -146,16 +146,3 @@ function animateValue(element, start, end, duration) {
 
     requestAnimationFrame(update);
 }
-
-function toggleCertifications() {
-    const content = document.getElementById('cert-content');
-    const icon = document.getElementById('cert-icon');
-
-    if (!content || !icon) return;
-
-    const isOpen = content.style.display === 'block';
-    content.style.display = isOpen ? 'none' : 'block';
-    icon.textContent = isOpen ? '+' : '-';
-}
-
-window.toggleCertifications = toggleCertifications;
